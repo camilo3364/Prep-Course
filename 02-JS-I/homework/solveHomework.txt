@@ -1,0 +1,24 @@
+
+    En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como 
+    si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente 
+    cualquier agujero en tu comprensión.
+
+    Variables
+    Strings
+    Funciones (argumentos, return)
+    Declaraciones if
+    Valores booleanos (true, false)
+
+Variables = Las variables se usan para almacenar datos que puedan ser usados luego en el programa, de esta forma 
+hay una mejor organización de el código ya que una variable puede ser usada en varias partes del código.
+
+String = Los strings son un tipo de dato de cadena de carácteres y se conocen mediante las comillas ""
+
+Funciones = Las funciones son para ahorrar código o mejor dicho reutilizar código en más de una ocasión, dichas funciones
+pueden contener argumentos que ingresan por parámetro a la función que no son más que variables tomando algún tipo de dato
+con el cual la función realice alguna actividad, si se invoca a la función  y esta no posee un print o un return no hará 
+absolutamente nada, pero si tiene un print o un return se verá por pantalla y se podrá usar la función.
+
+Delaraciones if: Estos statements sirven para dar flujo al programa mediante condiciones verdaderas o falsas.
+
+Valores booleanos = Sirven para saber si algo es correcto mediante la lógica de programación.
