@@ -1,0 +1,17 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos 
+como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente 
+cualquier agujero en tu comprensión.
+
+* `for`
+* `&&`, `||`, `!`
+
+el ciclo for sirve para iterar mediante una variable que incrementará o decrementará según nosotros se lo impongamos, esto
+sirve para hacer calculo repetitivos o para recorrer vectores.
+
+El operador lógico and (&&) funciona de la siguiente manera, cuando dos variables son verdaderas el resultado es verdadero
+en el resto de casos será falso siempre.
+
+El operador lógico or (||) es verdadero cuando alguna de las dos variables es verdadero, pero si ambas son falsas el resultado
+será falso.
+
+El operador lógico not (!) niega todo lo que va a delante de él.
