@@ -1,0 +1,14 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos 
+como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente 
+cualquier agujero en tu comprensión.
+
+* `prototype`
+* _Constructors_ (de Clases)
+
+
+prototype = El prototipo es como la base de la función o del objeto, en este caso cuando se crea un constructor se le puede
+agregar una función global mediante prototype, en la que todos los objetos puedan acceder a ella, pero si se crea un función
+en el objeto con el mismo nombre esta accederá al prototype del objeto antes que a la del prototype del constructor.
+
+_Constructors_ : Con esto podemos crear clases que sería la plantilla de los objetos, de esta forma no repetimos código
+al crear objetos, ni al llamar funciones individuales de cada objeto.
