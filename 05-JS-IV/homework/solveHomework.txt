@@ -1,0 +1,31 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos 
+como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente 
+cualquier agujero en tu comprensión.
+
+	* Objetos
+	* Propiedades
+	* Métodos
+	* Bucle `for…in`
+	* Notación de puntos vs notación de corchetes
+
+Objetos: Un objeto es un contenedor de características organizado con etiquetas para su fácil acceso, además de tener
+la posibilidad de tener funciones adentro del mismo.
+
+Propiedades: las propiedades son atributos únicos que tiene cada objeto.
+
+Métodos: los métodos son funciones que pueden realizar los objetos.
+
+Bucle for in: sirve para recorrer los objetos su sintaxis es de la siguiente manera:
+for (var clave in usuario){
+    console.log(clave);
+    console.log(usuario[clave]);
+}
+
+
+Notación de puntos v notación de corchetes: La notación de puntos permite acceder a los atributos de un objeto de forma
+más rápida y sencilla que mendiante la notación de corchetes, el problema es que no se pueden uasr para recorrer un objeto,
+debido a que lo que vaya después del punto tiene que ser un atributo exitente tal cual ecrito.
+
+Notación de corchetes: La notación de corchetes es más larga, pero funciona muy bien para recorrer objetos y crear
+variables que contengan el nombre del atributo del objeto y este puede ser remplazado por la variable.
+
